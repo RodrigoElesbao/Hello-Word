@@ -1,2 +1,2 @@
-# Hello Word
- first public repository, for testing purposes
+# Hello, Word!
+ First public repository, for testing purposes.
